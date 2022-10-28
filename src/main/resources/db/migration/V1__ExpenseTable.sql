@@ -1,0 +1,1 @@
+CREATE TABLE expense (id INT PRIMARY KEY, month VARCHAR(255), year INT, groceries INT, clothing INT, transportation INT, utilities INT, entertainment INT, miscellaneous INT)
